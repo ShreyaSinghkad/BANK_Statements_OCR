@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pymongo
+pytesseract
+pdf2image
+pillow
+pyngrok
+nest_asyncio
